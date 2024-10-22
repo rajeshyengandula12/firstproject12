@@ -1,0 +1,2 @@
+hi, this is statshing file, Use git stash to save your work, switch branches, 
+then apply the changes back.
